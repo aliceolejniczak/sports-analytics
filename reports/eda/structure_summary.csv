@@ -1,0 +1,8 @@
+metric,value
+rows,456
+columns,62
+participants,3
+days_per_participant,"{1: 152, 3: 152, 5: 152}"
+missing_cells,0
+numeric_columns,58
+text_columns,4

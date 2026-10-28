@@ -1,0 +1,2 @@
+model,best_params,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,pr_auc,baseline_balanced_accuracy,baseline_f1,tn,fp,fn,tp
+XGBClassifier,"{'learning_rate': 0.05, 'max_depth': 5, 'n_estimators': 100}",0.6703296703296703,0.5523809523809524,0.30434782608695654,0.3333333333333333,0.3181818181818182,0.5571428571428572,0.305128587057538,0.5,0.0,54,16,14,7

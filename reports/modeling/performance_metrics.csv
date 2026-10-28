@@ -1,0 +1,2 @@
+model,best_params,rmse,mae,r2,baseline_rmse,baseline_mae
+RandomForestRegressor,"{'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 200}",18.2990633685792,13.693816002588157,-1.4327592526513904,15.150006864870804,11.173099993928723
